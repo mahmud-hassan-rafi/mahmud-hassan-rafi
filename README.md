@@ -1,7 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <h1> Hi there 👋 I am Rafi!</h1>
+  
+  <h3>
+    A passionate MERN stack developer
+  </h3>
+  <hr/>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmud-hassan-rafi&theme=tokyonight)
-![Total Stars](https://github-readme-stats.vercel.app/api?username=mahmud-hassan-rafi&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total%20Stars&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-hassan-rafi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmud-hassan-rafi&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total%20Stars&theme=tokyonight" alt="Total Stars" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-hassan-rafi&layout=compact&theme=tokyonight" alt="Top Langs" />
