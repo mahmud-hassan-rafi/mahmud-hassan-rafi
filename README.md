@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/mahmud-hassan-rafi/mahmud-hassan-rafi/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-hassan-rafi&layout=compact&theme=tokyonight)
 
 <!--
 **mahmud-hassan-rafi/mahmud-hassan-rafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
