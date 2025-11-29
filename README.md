@@ -14,9 +14,10 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmud-hassan-rafi&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total%20Stars&theme=tokyonight" alt="Total Stars" />
 </p> -->
- <p align="center">
+
+<!--- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-hassan-rafi&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p> 
+</p> --->
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmud-hassan-rafi&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
