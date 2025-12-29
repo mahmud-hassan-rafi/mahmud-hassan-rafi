@@ -234,11 +234,11 @@
 
   <!-- Stats -->
   <h3>📊 GitHub Stats</h3>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-hassan-rafi&theme=github-dark"/>
-  </div>
   <div>
     <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=mahmud-hassan-rafi&layout=compact&card_width=320&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+  </div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-hassan-rafi&theme=github-dark"/>
   </div>
   
 </div>
