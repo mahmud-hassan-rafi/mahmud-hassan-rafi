@@ -1,4 +1,250 @@
 <div align="center">
+
+  <h1>Hi there, I'm Rafi 👋</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Full+Stack+Developer;" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p>
+    ⚡ Developed 5+ Web Projects using MERN Stack
+  </p>
+  
+  <p>
+   <img src="https://komarev.com/ghpvc/?username=mahmud-hassan-rafi&label=GitHub%20Views&style=for-the-badge&color=000000"/>
+    <img src="https://img.shields.io/github/stars/mahmud-hassan-rafi?style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000"  />
+  </p>
+
+  <br/>
+
+  <!-- Socials -->
+  <!-- <p>
+    <a href="https://0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://0xarchit.carrd.co"><img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd" /></a>
+    <a href="https://linkedin.com/in/0xarchit"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/0xarchit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://codolio.com/profile/0xarchit"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
+    <a href="mailto:mail@0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  <p>
+    <a href="https://instagram.com/0xarchit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://medium.com/@0xarchit"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://quora.com/profile/0xarchit"><img src="https://img.shields.io/badge/Quora-000000?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
+    <a href="https://reddit.com/user/0xarchit"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+    <a href="https://stackoverflow.com/users/28119660"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+    <a href="https://x.com/0xarchit"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  </p>
+
+  <br/> -->
+
+  <!-- Tech Stack -->
+  <h3>🛠️ Tech Stack</h3>
+
+  <!-- Languages -->
+  <h4>Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
+  </p>
+
+  <!-- Frontend -->
+  <h4>Frontend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/MATERIAL UI-000000?style=for-the-badge&logo=mui&logoColor=white" />
+    <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=gsap&logoColor=white" />
+  </p>
+
+  <!-- Backend -->
+  <h4>Backend</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white" />
+    <img src="https://img.shields.io/badge/BCRYPT-000000?style=for-the-badge&logo=bcrypt&logoColor=white" />
+  </p>
+
+  <!-- Tools & Others -->
+  <h4>Tools & Others</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB%20Atlas-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chrome%20DevTools-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" />
+  </p>
+
+  <br/>
+
+  <!-- Featured Projects -->
+  <!-- 
+  <h3>🚀 Featured Projects</h3> 
+<table align="center">
+  <tr>
+    <td align="center"><b>AI Health</b></td>
+    <td align="center"><b>Global Search Visualizer</b></td>
+    <td align="center"><b>BYOK Chat</b></td>
+  </tr>
+  <tr>
+    <td align="center">AI-powered health assistant for personal food analysis.</td>
+    <td align="center">Search results visualizer across regions with browser automation.</td>
+    <td align="center">Versatile Next.js platform for custom AI provider integration.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xarchit/AI-Health"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://aihealth.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/global-search-visualizer"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://global-view.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/AnyWhere-ChatBot-Chatty"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://byok.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Algorithm Ace</b></td>
+    <td align="center"><b>Chatty</b></td>
+    <td align="center"><b>ChatDoc</b></td>
+  </tr>
+  <tr>
+    <td align="center">LeetCode companion extension with AI reasoning and daily practice reminders.</td>
+    <td align="center">Lightweight, drop-in AI chatbot widget for any website.</td>
+    <td align="center">Document query app using LLMs and embeddings for extraction.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xarchit/AlgorithmAce"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://algorithmace.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/AnyWhere-ChatBot-Chatty"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://chatty.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/ChatDoc"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://chatdoc.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>ArcNews</b></td>
+    <td align="center"><b>GitHub Profile Analyzer</b></td>
+    <td align="center"><b>Web Scraper</b></td>
+  </tr>
+  <tr>
+    <td align="center">Real-time news dashboard with modular and scalable architecture.</td>
+    <td align="center">Serverless AI insights on user contributions and GitHub stats.</td>
+    <td align="center">Web scraping toolkit using Cloudflare Workers and LLMs.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xarchit/ArcNews-DashBoard"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://arcnews.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/github-profile-analyzer"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://github.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/duckduckgo-webscraper"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://webscraper.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>AI Classroom Assistant</b></td>
+    <td align="center"><b>ArcArcGo</b></td>
+    <td align="center"><b>Learn Track</b></td>
+  </tr>
+  <tr>
+    <td align="center">Emotion detection and voice-enabled AI assistant for classrooms.</td>
+    <td align="center">Cloudflare Worker proxy for DuckDuckGo with custom UI.</td>
+    <td align="center">Learning management system with role-based access support.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xarchit/Classroom_AI_Assistant"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://0xarchit-classroom-ai-assistant.hf.space"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/ArcArcGo"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://arcarcgo.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/LearnTrack"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://learntrack.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Fake News Verifier</b></td>
+    <td align="center"><b>CodeArc</b></td>
+    <td align="center"><b>Scroll2Pdf</b></td>
+  </tr>
+  <tr>
+    <td align="center">AI-powered PWA using Gemini and RAG for accurate news verification.</td>
+    <td align="center">Programming-focused AI chatbot with multiple theme support.</td>
+    <td align="center">Tool for converting long scrollable web pages into PDF files.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/0xarchit/news-verification-system"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://news-verify.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/codearc"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://codearc.0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/0xarchit/Scroll-To-Pdf"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/0xarchit/Scroll-To-Pdf/releases/tag/1.0.0"><img src="https://img.shields.io/badge/Live-000000?style=flat&logo=google-chrome&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+
+  <br/>
+  -->
+
+  <!-- Stats -->
+  <h3>📊 GitHub Stats</h3>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmud-hassan-rafi&theme=github-dark"/>
+  </div>
+  <div>
+    <img src="https://git-stats.0xarchit.is-a.dev/api/top-langs?username=mahmud-hassan-rafi&layout=compact&card_width=320&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" height="150" alt="languages graph" />
+  </div>
+  
+</div>
+
+
+<!-- <div align="center">
   <h1> Hi there 👋 I am Rafi!</h1>
   
   <h3>
@@ -21,7 +267,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmud-hassan-rafi&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p> 
+</p>  -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahmud-hassan-rafi&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
