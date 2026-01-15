@@ -39,8 +39,17 @@
 
   <br/> -->
 
+ <!-- about me -->
+ <h2>About me</h2>
+<div width="50%">
+   <p>I'm a self-taught frontend developer from Bangladesh, focused on building real-world React applications with proper state management, authentication, and API integration.
+<!-- <br /> <br /> -->
+Currently seeking a junior frontend role where I can learn from real projects and contribute clean, user-friendly UI.</p>
+  <br />
+</div>
+
   <!-- Tech Stack -->
-  <h3>🛠️ Tech Stack</h3>
+  <h2>🛠️ Tech Stack</h2>
 
   <!-- Languages -->
   <h4>Languages</h4>
