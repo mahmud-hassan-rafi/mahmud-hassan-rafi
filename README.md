@@ -17,8 +17,6 @@
     <img src="https://img.shields.io/github/stars/mahmud-hassan-rafi?style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000"  />
   </p>
 
-  <br/>
-
  <!-- about me -->
  <h2>About me</h2>
 <div width="50%">
