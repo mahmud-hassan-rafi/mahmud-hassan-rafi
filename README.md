@@ -19,26 +19,6 @@
 
   <br/>
 
-  <!-- Socials -->
-  <!-- <p>
-    <a href="https://0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://0xarchit.carrd.co"><img src="https://img.shields.io/badge/Carrd-000000?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd" /></a>
-    <a href="https://linkedin.com/in/0xarchit"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/0xarchit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://codolio.com/profile/0xarchit"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
-    <a href="mailto:mail@0xarchit.is-a.dev"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
-  <p>
-    <a href="https://instagram.com/0xarchit"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://medium.com/@0xarchit"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://quora.com/profile/0xarchit"><img src="https://img.shields.io/badge/Quora-000000?style=for-the-badge&logo=quora&logoColor=white" alt="Quora" /></a>
-    <a href="https://reddit.com/user/0xarchit"><img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-    <a href="https://stackoverflow.com/users/28119660"><img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-    <a href="https://x.com/0xarchit"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  </p>
-
-  <br/> -->
-
  <!-- about me -->
  <h2>About me</h2>
 <div width="50%">
@@ -99,6 +79,16 @@ Currently seeking a junior frontend role where I can learn from real projects an
     <!-- <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" /> -->
   </p>
 
+  <br/>
+
+<!-- Socials -->
+<h2>Socials</h2>
+   <p>
+    <a href="https://mahmud-hassan-rafi.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mahmud-hassan-rafi"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mahmudhassanrafi12@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com/mahmud_hassan_rafi"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
   <br/>
 
   <!-- Featured Projects -->
