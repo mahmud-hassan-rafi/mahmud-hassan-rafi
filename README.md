@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" /> -->
   </p>
 
   <!-- Frontend -->
@@ -83,11 +83,11 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB%20Atlas-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Chrome%20DevTools-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" /> -->
   </p>
 
   <br/>
