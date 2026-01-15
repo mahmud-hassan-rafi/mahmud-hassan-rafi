@@ -42,7 +42,7 @@ Currently seeking a junior frontend role where I can learn from real projects an
   <h4>Frontend</h4>
   <p>
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/RTK Query-000000?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
