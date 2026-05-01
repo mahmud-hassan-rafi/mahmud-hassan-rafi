@@ -48,7 +48,7 @@ Currently seeking a junior frontend role where I can learn from real projects an
     <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/MATERIAL UI-000000?style=for-the-badge&logo=mui&logoColor=white" />
-    <img src="https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=gsap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer motion-000000?style=for-the-badge&logo=framer&logoColor=white" />
   </p>
 
   <!-- Backend -->
