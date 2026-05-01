@@ -73,9 +73,10 @@ Currently seeking a junior frontend role where I can learn from real projects an
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB%20Atlas-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Chrome%20DevTools-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/React DevTool-000000?style=for-the-badge&logo=ReactDevtool&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=white" /> -->
-    <!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" /> -->
   </p>
