@@ -59,6 +59,9 @@ Currently seeking a junior frontend role where I can learn from real projects an
     <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white" />
     <img src="https://img.shields.io/badge/BCRYPT-000000?style=for-the-badge&logo=bcrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/MULTER-000000?style=for-the-badge&logo=multer&logoColor=white" />
+    <img src="https://img.shields.io/badge/CLOUDINARY-000000?style=for-the-badge&logo=cloudinary&logoColor=white" />
+    <img src="https://img.shields.io/badge/STRIPE-000000?style=for-the-badge&logo=stripe&logoColor=white" />
   </p>
 
   <!-- Tools & Others -->
