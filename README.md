@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Rafi 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+Developer;MERN+Stack+Developer;Full+Stack+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend+Developer;React+Developer;MERN+Stack+Developer;Full+Stack+Developer;" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -12,10 +12,10 @@
     ⚡ Developed 5+ Web Projects using MERN Stack
   </p>
   
-  <p>
+ <!-- <p>
    <img src="https://komarev.com/ghpvc/?username=mahmud-hassan-rafi&label=GitHub%20Views&style=for-the-badge&color=000000"/>
     <img src="https://img.shields.io/github/stars/mahmud-hassan-rafi?style=for-the-badge&label=GitHub%20Stars&logo=github&logoColor=white&labelColor=000000&color=000000"  />
-  </p>
+  </p> -->
 
  <!-- about me -->
  <h2>About me</h2>
@@ -54,14 +54,15 @@ Currently seeking a junior frontend role where I can learn from real projects an
   <!-- Backend -->
   <h4>Backend</h4>
   <p>
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white" />
     <img src="https://img.shields.io/badge/BCRYPT-000000?style=for-the-badge&logo=bcrypt&logoColor=white" />
     <img src="https://img.shields.io/badge/MULTER-000000?style=for-the-badge&logo=multer&logoColor=white" />
     <img src="https://img.shields.io/badge/CLOUDINARY-000000?style=for-the-badge&logo=cloudinary&logoColor=white" />
     <img src="https://img.shields.io/badge/STRIPE-000000?style=for-the-badge&logo=stripe&logoColor=white" />
+    <img src="https://img.shields.io/badge/SOCKET.io-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
   </p>
 
   <!-- Tools & Others -->
