@@ -20,9 +20,12 @@
  <!-- about me -->
  <h2>About me</h2>
 <div width="50%">
-   <p>I'm a self-taught frontend developer from Bangladesh, focused on building real-world React applications with proper state management, authentication, and API integration.
-<!-- <br /> <br /> -->
-Currently seeking a junior frontend role where I can learn from real projects and contribute clean, user-friendly UI.</p>
+   <p>
+I'm a self-taught Full-Stack Developer from Bangladesh who enjoys building real-world web applications with React, Next.js, Node.js, and TypeScript.
+
+I love learning how things work under the hood, especially backend development, authentication, and application architecture.
+
+Always learning, building, and looking for opportunities to grow as a developer.</p>
   <br />
 </div>
 
@@ -43,6 +46,7 @@ Currently seeking a junior frontend role where I can learn from real projects an
   <h4>Frontend</h4>
   <p>
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Redux Toolkit-000000?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/RTK Query-000000?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -57,8 +61,7 @@ Currently seeking a junior frontend role where I can learn from real projects an
     <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JWT&logoColor=white" />
-    <img src="https://img.shields.io/badge/BCRYPT-000000?style=for-the-badge&logo=bcrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" />
     <img src="https://img.shields.io/badge/MULTER-000000?style=for-the-badge&logo=multer&logoColor=white" />
     <img src="https://img.shields.io/badge/CLOUDINARY-000000?style=for-the-badge&logo=cloudinary&logoColor=white" />
     <img src="https://img.shields.io/badge/STRIPE-000000?style=for-the-badge&logo=stripe&logoColor=white" />
@@ -70,15 +73,11 @@ Currently seeking a junior frontend role where I can learn from real projects an
   <p>
     <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB%20Atlas-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/Chrome%20DevTools-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/React DevTool-000000?style=for-the-badge&logo=ReactDevtool&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" /> -->
-    <!-- <img src="https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=white" /> -->
-    <!-- <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" /> -->
     <!-- <img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white" /> -->
   </p>
 
@@ -96,7 +95,7 @@ Currently seeking a junior frontend role where I can learn from real projects an
 
   <!-- Featured Projects -->
   <!-- 
-  <h3>🚀 Featured Projects</h3> 
+  <h3>Featured Projects</h3> 
 <table align="center">
   <tr>
     <td align="center"><b>AI Health</b></td>
